@@ -1,2 +1,4 @@
 *.txt
-/HTML 
+/Java
+!5.txt
+/TEMP
