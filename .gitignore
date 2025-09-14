@@ -1,4 +1,4 @@
 *.txt
 /Java
 !5.txt
-/TEMP
+TEMP/
